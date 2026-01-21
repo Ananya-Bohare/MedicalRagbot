@@ -1,0 +1,4 @@
+venv/
+logs/
+.env
+Medical_Chatbot.egg-info/
